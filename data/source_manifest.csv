@@ -1,0 +1,13 @@
+dataset,segment,coverage,original_filename,stored_path,source_page,download_date,raw_format
+housing,new,2011-01_to_2018-12,附件：70个大中城市新建商品住宅销售价格指数（2011.1-2018.12）.doc,data/raw/housing/new/new_housing_2011_2018.doc,https://www.cirea.org.cn/content/4770,2026-09-22,doc
+housing,new,2019-01_to_2022-12,附件：70个大中城市新建商品住宅销售价格指数（2019.1-2022.12）.doc,data/raw/housing/new/new_housing_2019_2022.doc,https://www.cirea.org.cn/content/4770,2026-09-22,doc
+housing,new,2023-01_to_2023-12,附件：70个大中城市新建商品住宅销售价格指数（2023.1-2023.12）.docx,data/raw/housing/new/new_housing_2023.docx,https://www.cirea.org.cn/content/4770,2026-09-22,docx
+housing,new,2024-01_to_2024-12,附件：70个大中城市新建商品住宅销售价格指数（2024.1-2024.12）.docx,data/raw/housing/new/new_housing_2024.docx,https://www.cirea.org.cn/content/4770,2026-09-22,docx
+housing,new,2025-01_to_2025-12,附件：70个大中城市新建商品住宅销售价格指数（2025.1-2025.12）.docx,data/raw/housing/new/new_housing_2025.docx,https://www.cirea.org.cn/content/4770,2026-09-22,docx
+housing,second_hand,2011-01_to_2018-12,附件：70个大中城市二手住宅销售价格指数（2011.1-2018.12）.doc,data/raw/housing/second_hand/second_hand_housing_2011_2018.doc,https://www.cirea.org.cn/content/4773,2026-09-22,doc
+housing,second_hand,2019-01_to_2022-12,附件：70个大中城市二手住宅销售价格指数（2019.1-2022.12）.doc,data/raw/housing/second_hand/second_hand_housing_2019_2022.doc,https://www.cirea.org.cn/content/4773,2026-09-22,doc
+housing,second_hand,2023-01_to_2023-12,附件：70个大中城市二手住宅销售价格指数（2023.1-2023.12）.docx,data/raw/housing/second_hand/second_hand_housing_2023.docx,https://www.cirea.org.cn/content/4773,2026-09-22,docx
+housing,second_hand_overall,2024-01_to_2024-12,12 monthly NBS housing price pages,data/raw/housing/second_hand/nbs_overall_2024_2025/,https://www.stats.gov.cn/sj/zxfb/,2026-09-22,html
+housing,second_hand_overall,2025-01_to_2025-12,12 monthly NBS housing price pages,data/raw/housing/second_hand/nbs_overall_2024_2025/,https://www.stats.gov.cn/sj/zxfb/,2026-09-22,html
+stock,csi300_primary,2011-01-01_to_2025-12-31,csi300_official_2011_2025.json,data/raw/stock/csi300_official_daily_2011_2025.json,https://www.csindex.com.cn/#/indices/family/detail?indexCode=000300,2026-09-22,json
+stock,csi300_presample,2010-09-01_to_2010-12-31,股票数据.json,data/raw/stock/csi300_official_daily_2010_09_12.json,https://www.csindex.com.cn/csindex-home/perf/index-perf?indexCode=000300&startDate=20100901&endDate=20110104,2026-09-22,json
